@@ -1,0 +1,13 @@
+Calculator Manual
+
+Introduction
+
+This manual provides instructions on how to use the calculator you have made in Python. The calculator can perform calculations, such as addition, subtraction, multiplication, and division. It can also calculate Squareroots and exponents.
+
+Getting Started
+
+To start using the calculator, open the Python file that contains the calculator code. Then, click the "Run" button to run the program. The calculator will open in a new window.
+
+Using the Calculator
+
+To use the calculator, enter a number into the text field. Then, click the operation button that you want to perform. The result of the operation will be displayed in the text field.
